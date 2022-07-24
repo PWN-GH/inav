@@ -79,8 +79,13 @@ Once that's done you can compile the firmware for your flight controller
 ```
 make DALRCF405
 ```
+<<<<<<< HEAD
 To get a list of available targets in iNav, see the target src folder
 [https://github.com/tednv/inav/tree/master/src/main/target](https://github.com/inavflight/inav/tree/master/src/main/target)
+=======
+To get a list of available targets in INAV, see the target src folder
+https://github.com/tednv/inav/tree/master/src/main/target
+>>>>>>> parent of 3df49a704 (Replaced targets link to official INAV repo)
 
 The generated hex file will be in /c/Workspace/inav/build folder
 
